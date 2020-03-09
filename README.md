@@ -1,4 +1,4 @@
-# Fillit - 42 - Project 02
+# Fillit - 42 
 
 #### Introduction
 
